@@ -1,3 +1,2 @@
 language: bash
-script: 
-  - echo "Test Travis works"
+script: echo "Test Travis works"
